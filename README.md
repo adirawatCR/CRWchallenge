@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HR62F8EH2NXQW1HQ4Y18R3Q2
-  version: v3
----
-
 # CRWchallenge - WebdriverIO and Cucumber
 
 ## Project Overview
