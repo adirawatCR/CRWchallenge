@@ -1,0 +1,7 @@
+node_modules/
+.git/
+allure-results/
+wdio.conf.js
+wdio.conf.ts
+tsconfig.json
+package.json
